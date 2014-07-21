@@ -1,0 +1,24 @@
+{
+  "name": "socketLunch",
+  "version": "0.0.1",
+  "authors": [
+    "honghui <agua0106@gmail.com>"
+  ],
+  "description": "实时点餐系统",
+  "main": "/public",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pure": "~0.5.0",
+    "angular": "~1.2.20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "lunch",
+  "version": "0.0.1",
+  "description": "实时点餐系统",
+  "dependencies": {
+    "express": "^4.6.0",
+    "socket.io": "^1.0.6",
+    "ejs": "^1.0.0",
+    "body-parser": "^1.4.3",
+    "mongoose": "^3.8.13"
+  }
+}
